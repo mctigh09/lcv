@@ -1,1 +1,1 @@
-
+select * from bsd.contribution_page
